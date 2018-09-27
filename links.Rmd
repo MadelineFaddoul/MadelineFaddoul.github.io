@@ -1,0 +1,18 @@
+---
+title: "links"
+output: html_document
+---
+Helpful links for students:
+  
+  -[University Library](https://library.appstate.edu/)
+  
+  -[AsUlearn](https://asulearn.appstate.edu/)
+  
+  -[Student Exam Schedual](https://registrar.appstate.edu/calendars-schedules)
+  
+  -[Appalnet Self Services](https://bannerweb.appstate.edu/pls/PROD/twbkwbis.P_WWWLogin)
+  
+  -[Degreeworks Login](https://dw.appstate.edu/Dashboard/login.html)  
+  
+  -[My Github Repository](https://github.com/MadelineFaddoul?tab=repositories)
+  

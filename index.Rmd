@@ -1,0 +1,9 @@
+---
+title: "About Me"
+---
+###Welcome to my Website!  
+My name is Rosie Faddoul and I am a transfer student here at App. I am from Wilmington, North Carolina and graduated High School in 2015. After High School went to Cape Fear Community Collge for two years and then transfered to Appalachian State University.  I have a passion for social justice issues including the LGBTQ community, racial minorities, gender inequality, criminology, education and political systems and much more.  This is why I chose to get my Major in Sociology: Research Methods and minor in Statistics.  I chose the more analytical side of Sociology becuase I feel Sociology researchers are underrepresentated. 
+I love Appalachian for the location as well as the sociology program.  I love the mountians and being able to hike or visit a waterfall or mountian top every and anyday.
+
+
+image: ![](https://bt-wpstatic.freetls.fastly.net/wp-content/blogs.dir/4001/files/2017/06/636211689505579182-1456269893_app-state-060720141.jpg)

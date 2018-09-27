@@ -1,0 +1,13 @@
+#YAML
+name: "MadelineFaddoul.github.io"
+output_dir: "."
+navbar:
+  title: "Rosie Faddoul"
+  left:
+  - text: "Home"
+    href: index.html
+  - text: "Resume"
+    href: resume.html
+  - text: "Links"
+    href: links.html
+    

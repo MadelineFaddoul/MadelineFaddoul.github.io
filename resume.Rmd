@@ -1,0 +1,45 @@
+---
+title: "My Resume"
+---
+
+#Madeline (Rosie) Faddoul
+164 Charlotte Ann Ln -- 910-632-4525 -- Rosiefaddoul97@gmail.com -- Appalachian State University
+
+#Education
+
+##Associates Degree in Arts, Cape Fear Community College
+I graduated Cape Fear with a GPA of 3.85, made the honor’s or dean’s list every semester, and joined Phi Theta Kappa honor society. I am also a Kiwanis member and helped with a pancake breakfast in Wilmington in 2016 and they awarded me with a $1400 scholarship.
+2017-2019
+
+##Bachelor’s Degree in Sociology, Appalachian State University
+I am working for my major degree in Sociology: Research Methods and my minor is Statistics and plan to graduate in May of 2019. I have a current GPA of 3.45 and have made the dean’s list each semester. I have also been accepted into The Society for Collegiate Leadership & Achievement (SCLA) program.
+
+#Research
+##Professor Beth Davidson, Appalachian State University
+I am helping a professor this semester (Fall 2018) as a research assistant. We are analyzing certain job sects in Mooresville city to find if the area is having a problem in regarded to hiring minorities. I also help her with TA work such as tutoring student and grading assignments or tests.
+
+#Skills
+- Sociological understanding of the world
+- Apply theoretical knowledge that can be used
+to identify, examine and test a hypothesis
+- Analyze and compare data sets
+- Critical thinking, cultural competence, writing
+skills, and implicit bias self-awareness
+- Good work ethic, passionate and a readiness to
+learn
+- Can create survey without bias and analyze
+results
+- A range of statistical skills including general
+coding for R and RStudio and making
+webpages
+- Applicable understanding of all Microsoft
+programs and SPSS
+
+#Work Experiece
+- MAY 2014 – JULY 2016  
+Volleyball Referee, Dig & Dive  
+Address: 3525 Lancelot Ln, Wilmington, NC 28403  
+Contact: (910) 228-5791  
+- MAY – JUNE 2018  
+House Cleaning, Private by Amanda Gucce  
+Contact: (336) 977-1817  
